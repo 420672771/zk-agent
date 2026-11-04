@@ -1,0 +1,9 @@
+{
+  "name": "zk-agent-miniprogram",
+  "version": "0.1.0",
+  "private": true,
+  "description": "WeChat Mini Program plugin for 联合利丰智库Agent",
+  "scripts": {
+    "test": "node --test ../tests/miniprogram/*.test.js"
+  }
+}
